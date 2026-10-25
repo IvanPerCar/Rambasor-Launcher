@@ -1,1 +1,1 @@
-# Rambasor-Launcher
+Rambasor Launcher te permite descargar, actualizar y jugar fácilmente a las instancias de Minecraft publicadas por el administrador. Solo tienes que iniciar sesión, elegir una instancia, introducir su contraseña si es necesario y pulsar Jugar. El launcher mantiene los mods y archivos actualizados automáticamente, guarda tus cuentas y permite configurar opciones como la RAM, Java y la pantalla. Cada instancia tiene sus propios archivos y configuraciones, para que puedas jugar sin mezclar tus instalaciones.
